@@ -18,7 +18,7 @@ const HeroSection = ({ onGetStarted }: { onGetStarted: () => void }) => {
           {/* Hero Content */}
           <div className="text-center lg:text-left space-y-8 animate-fade-in-up">
             <div className="space-y-4">
-              <h1 className="text-5xl lg:text-7xl font-bold bg-gradient-to-r from-primary via-primary-glow to-wellness bg-clip-text text-transparent leading-tight">
+              <h1 className="text-5xl lg:text-7xl font-bold bg-gradient-to-r from-orange-500 via-pink-500 to-purple-600 bg-clip-text text-transparent leading-tight">
                 GamifyEd
               </h1>
               <p className="text-xl lg:text-2xl text-foreground-muted font-medium">
